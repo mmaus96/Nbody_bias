@@ -1,0 +1,15 @@
+# Gaussian priors of the linear (analytically marginalized) parameters of LRG1: counterterms alpha0, alpha2
+# (ct_reparam basis) and the shot-noise terms SN0, SN2 ((Mpc/h)^3 and (Mpc/h)^5). Same as C3PO's
+# configs/params/params_linear_LRG1_FSBAO_uncorrected.yaml without the BAO broadband terms.
+alpha0_LRG1:
+  mean: 0.0
+  std: 12.5
+alpha2_LRG1:
+  mean: 0.0
+  std: 12.5
+SN0_LRG1:
+  mean: 0.0
+  std: 6644.5183
+SN2_LRG1:
+  mean: 0.0
+  std: 82846.1767

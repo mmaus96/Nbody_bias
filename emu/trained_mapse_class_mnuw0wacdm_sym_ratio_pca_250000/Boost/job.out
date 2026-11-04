@@ -1,0 +1,997 @@
+258.852535 seconds (2.77 M allocations: 235.643 MiB, 0.03% gc time, 0.12% compilation time)
+Initial Loss: 565090.4644723097
+ 29.006262 seconds (14.79 M allocations: 835.957 MiB, 0.52% gc time, 27.87% compilation time)
+ 19.954494 seconds (14 allocations: 624 bytes)
+ 20.008699 seconds (14 allocations: 624 bytes)
+ 18.240733 seconds (14 allocations: 624 bytes)
+ 17.825759 seconds (14 allocations: 624 bytes)
+ 15.559000 seconds (14 allocations: 624 bytes)
+ 15.392195 seconds (14 allocations: 624 bytes)
+ 15.130581 seconds (14 allocations: 624 bytes)
+ 16.071713 seconds (14 allocations: 624 bytes)
+ 16.214501 seconds (14 allocations: 624 bytes)
+ 16.891968 seconds (14 allocations: 624 bytes)
+ 18.388719 seconds (14 allocations: 624 bytes)
+ 17.768489 seconds (14 allocations: 624 bytes)
+ 15.759826 seconds (14 allocations: 624 bytes)
+ 17.653732 seconds (14 allocations: 624 bytes)
+ 16.144897 seconds (14 allocations: 624 bytes)
+ 16.545838 seconds (14 allocations: 624 bytes)
+ 16.974967 seconds (14 allocations: 624 bytes)
+ 19.024510 seconds (14 allocations: 624 bytes)
+ 20.354935 seconds (14 allocations: 624 bytes)
+ 19.320374 seconds (14 allocations: 624 bytes)
+ 16.277273 seconds (14 allocations: 624 bytes)
+ 16.184150 seconds (14 allocations: 624 bytes)
+ 15.909777 seconds (14 allocations: 624 bytes)
+ 16.720417 seconds (14 allocations: 624 bytes)
+ 13.690509 seconds (14 allocations: 624 bytes)
+ 12.968949 seconds (14 allocations: 624 bytes)
+ 15.009829 seconds (14 allocations: 624 bytes)
+ 15.484676 seconds (14 allocations: 624 bytes)
+ 14.893297 seconds (14 allocations: 624 bytes)
+ 14.519272 seconds (14 allocations: 624 bytes)
+ 14.642213 seconds (14 allocations: 624 bytes)
+ 14.932674 seconds (14 allocations: 624 bytes)
+ 15.565627 seconds (14 allocations: 624 bytes)
+ 14.024307 seconds (14 allocations: 624 bytes)
+ 14.097536 seconds (14 allocations: 624 bytes)
+ 15.898598 seconds (14 allocations: 624 bytes)
+ 16.514597 seconds (14 allocations: 624 bytes)
+ 15.569289 seconds (14 allocations: 624 bytes)
+ 15.217043 seconds (14 allocations: 624 bytes)
+ 16.056888 seconds (14 allocations: 624 bytes)
+ 15.717109 seconds (14 allocations: 624 bytes)
+ 16.303401 seconds (14 allocations: 624 bytes)
+ 18.158071 seconds (14 allocations: 624 bytes)
+ 15.985672 seconds (14 allocations: 624 bytes)
+ 17.305973 seconds (14 allocations: 624 bytes)
+ 15.911169 seconds (14 allocations: 624 bytes)
+ 15.252710 seconds (14 allocations: 624 bytes)
+ 15.848791 seconds (14 allocations: 624 bytes)
+ 19.005287 seconds (14 allocations: 624 bytes)
+ 15.763275 seconds (14 allocations: 624 bytes)
+ 16.632019 seconds (14 allocations: 624 bytes)
+ 16.871132 seconds (14 allocations: 624 bytes)
+ 15.892104 seconds (14 allocations: 624 bytes)
+ 16.149404 seconds (14 allocations: 624 bytes)
+ 15.947202 seconds (14 allocations: 624 bytes)
+ 16.205669 seconds (14 allocations: 624 bytes)
+ 17.747919 seconds (14 allocations: 624 bytes)
+ 18.374532 seconds (14 allocations: 624 bytes)
+ 16.728267 seconds (14 allocations: 624 bytes)
+ 16.075530 seconds (14 allocations: 624 bytes)
+ 14.747891 seconds (14 allocations: 624 bytes)
+ 16.791079 seconds (14 allocations: 624 bytes)
+ 21.879590 seconds (14 allocations: 624 bytes)
+ 15.933467 seconds (14 allocations: 624 bytes)
+ 15.095134 seconds (14 allocations: 624 bytes)
+ 16.536054 seconds (14 allocations: 624 bytes)
+ 17.832481 seconds (14 allocations: 624 bytes)
+ 17.651796 seconds (14 allocations: 624 bytes)
+ 17.505315 seconds (14 allocations: 624 bytes)
+ 17.580137 seconds (14 allocations: 624 bytes)
+ 16.140712 seconds (14 allocations: 624 bytes)
+ 15.596678 seconds (14 allocations: 624 bytes)
+ 18.514522 seconds (14 allocations: 624 bytes)
+ 17.997030 seconds (14 allocations: 624 bytes)
+ 18.803220 seconds (14 allocations: 624 bytes)
+ 18.463087 seconds (14 allocations: 624 bytes)
+ 17.645544 seconds (14 allocations: 624 bytes)
+ 16.971202 seconds (14 allocations: 624 bytes)
+ 16.537950 seconds (14 allocations: 624 bytes)
+ 16.295658 seconds (14 allocations: 624 bytes)
+ 16.127962 seconds (14 allocations: 624 bytes)
+ 16.277364 seconds (14 allocations: 624 bytes)
+ 16.369475 seconds (14 allocations: 624 bytes)
+ 17.119832 seconds (14 allocations: 624 bytes)
+ 18.365235 seconds (14 allocations: 624 bytes)
+ 17.550784 seconds (14 allocations: 624 bytes)
+ 16.378648 seconds (14 allocations: 624 bytes)
+ 15.535722 seconds (14 allocations: 624 bytes)
+ 15.568793 seconds (14 allocations: 624 bytes)
+ 15.511897 seconds (14 allocations: 624 bytes)
+ 16.199358 seconds (14 allocations: 624 bytes)
+ 15.742926 seconds (14 allocations: 624 bytes)
+ 15.710431 seconds (14 allocations: 624 bytes)
+ 15.640953 seconds (14 allocations: 624 bytes)
+ 15.760032 seconds (14 allocations: 624 bytes)
+ 15.833862 seconds (14 allocations: 624 bytes)
+ 17.358087 seconds (14 allocations: 624 bytes)
+ 15.385292 seconds (14 allocations: 624 bytes)
+ 15.931646 seconds (14 allocations: 624 bytes)
+ 15.864503 seconds (14 allocations: 624 bytes)
+ 15.823925 seconds (14 allocations: 624 bytes)
+ 15.591953 seconds (14 allocations: 624 bytes)
+ 15.830905 seconds (14 allocations: 624 bytes)
+ 16.003519 seconds (14 allocations: 624 bytes)
+ 16.016048 seconds (14 allocations: 624 bytes)
+ 17.647443 seconds (14 allocations: 624 bytes)
+ 18.186865 seconds (14 allocations: 624 bytes)
+ 14.375752 seconds (14 allocations: 624 bytes)
+ 12.688855 seconds (14 allocations: 624 bytes)
+ 11.285825 seconds (14 allocations: 624 bytes)
+  9.798476 seconds (14 allocations: 624 bytes)
+  9.635161 seconds (14 allocations: 624 bytes)
+  8.967848 seconds (14 allocations: 624 bytes)
+ 11.308755 seconds (14 allocations: 624 bytes)
+ 12.487434 seconds (14 allocations: 624 bytes)
+ 17.198760 seconds (14 allocations: 624 bytes)
+ 16.810336 seconds (14 allocations: 624 bytes)
+ 17.256401 seconds (14 allocations: 624 bytes)
+ 16.704872 seconds (14 allocations: 624 bytes)
+ 16.702259 seconds (14 allocations: 624 bytes)
+ 18.197414 seconds (14 allocations: 624 bytes)
+ 16.120137 seconds (14 allocations: 624 bytes)
+ 16.083519 seconds (14 allocations: 624 bytes)
+ 14.866342 seconds (14 allocations: 624 bytes)
+ 14.926856 seconds (14 allocations: 624 bytes)
+ 14.396571 seconds (14 allocations: 624 bytes)
+ 15.112356 seconds (14 allocations: 624 bytes)
+ 15.327504 seconds (14 allocations: 624 bytes)
+ 15.540662 seconds (14 allocations: 624 bytes)
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@e4farm03.ge.infn.it>
+Subject: Job 765619: <julia -t 24 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> in cluster <infnge> Done
+
+Job <julia -t 24 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <24*e4farm03.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Thu Mar 26 21:56:54 2026
+Results reported on Thu Mar 26 22:43:18 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 24 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   50816.45 sec.
+    Max Memory :                                 1573 MB
+    Average Memory :                             971.10 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              7
+    Max Threads :                                107
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost/job.err> for stderr output of this job.
+
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@e4farm02.ge.infn.it>
+Subject: Job 771361: <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> in cluster <infnge> Exited
+
+Job <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <4*e4farm02.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Mon Mar 30 22:40:37 2026
+Results reported on Mon Mar 30 22:41:57 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   23.43 sec.
+    Max Memory :                                 808 MB
+    Average Memory :                             367.33 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              3
+    Max Threads :                                59
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost/job.err> for stderr output of this job.
+
+189.317375 seconds (2.77 M allocations: 235.656 MiB, 0.02% gc time, 0.15% compilation time)
+Initial Loss: 537886.5373294861
+ 17.733549 seconds (14.70 M allocations: 744.444 MiB, 1.24% gc time, 43.53% compilation time: <1% of which was recompilation)
+ 10.252460 seconds (14 allocations: 624 bytes)
+ 10.419415 seconds (14 allocations: 624 bytes)
+  9.859618 seconds (14 allocations: 624 bytes)
+  9.820701 seconds (14 allocations: 624 bytes)
+  9.804313 seconds (14 allocations: 624 bytes)
+ 10.808181 seconds (14 allocations: 624 bytes)
+ 12.616374 seconds (14 allocations: 624 bytes)
+ 12.294047 seconds (14 allocations: 624 bytes)
+  9.986107 seconds (14 allocations: 624 bytes)
+ 11.774013 seconds (14 allocations: 624 bytes)
+ 10.020678 seconds (14 allocations: 624 bytes)
+ 10.349546 seconds (14 allocations: 624 bytes)
+ 10.102945 seconds (14 allocations: 624 bytes)
+ 10.145559 seconds (14 allocations: 624 bytes)
+ 10.311610 seconds (14 allocations: 624 bytes)
+ 10.130033 seconds (14 allocations: 624 bytes)
+ 11.633730 seconds (14 allocations: 624 bytes)
+ 12.034976 seconds (14 allocations: 624 bytes)
+  9.745858 seconds (14 allocations: 624 bytes)
+ 10.298783 seconds (14 allocations: 624 bytes)
+  9.347089 seconds (14 allocations: 624 bytes)
+ 10.394263 seconds (14 allocations: 624 bytes)
+  9.343617 seconds (14 allocations: 624 bytes)
+  9.310900 seconds (14 allocations: 624 bytes)
+  9.018109 seconds (14 allocations: 624 bytes)
+  9.095421 seconds (14 allocations: 624 bytes)
+  9.522115 seconds (14 allocations: 624 bytes)
+  9.830369 seconds (14 allocations: 624 bytes)
+  9.936449 seconds (14 allocations: 624 bytes)
+  9.070982 seconds (14 allocations: 624 bytes)
+  9.473580 seconds (14 allocations: 624 bytes)
+  9.413614 seconds (14 allocations: 624 bytes)
+ 10.220590 seconds (14 allocations: 624 bytes)
+ 10.059183 seconds (14 allocations: 624 bytes)
+ 10.073693 seconds (14 allocations: 624 bytes)
+ 10.802828 seconds (14 allocations: 624 bytes)
+ 10.902816 seconds (14 allocations: 624 bytes)
+  9.935128 seconds (14 allocations: 624 bytes)
+ 10.033641 seconds (14 allocations: 624 bytes)
+  9.099800 seconds (14 allocations: 624 bytes)
+  9.059962 seconds (14 allocations: 624 bytes)
+  9.701991 seconds (14 allocations: 624 bytes)
+  8.957634 seconds (14 allocations: 624 bytes)
+  9.724333 seconds (14 allocations: 624 bytes)
+  9.430621 seconds (14 allocations: 624 bytes)
+  9.111384 seconds (14 allocations: 624 bytes)
+  8.902286 seconds (14 allocations: 624 bytes)
+  9.986998 seconds (14 allocations: 624 bytes)
+  9.676558 seconds (14 allocations: 624 bytes)
+  9.228581 seconds (14 allocations: 624 bytes)
+  9.290473 seconds (14 allocations: 624 bytes)
+  9.493772 seconds (14 allocations: 624 bytes)
+ 10.391275 seconds (14 allocations: 624 bytes)
+ 10.128011 seconds (14 allocations: 624 bytes)
+ 10.260587 seconds (14 allocations: 624 bytes)
+  9.894315 seconds (14 allocations: 624 bytes)
+  9.336866 seconds (14 allocations: 624 bytes)
+  9.505783 seconds (14 allocations: 624 bytes)
+  9.341726 seconds (14 allocations: 624 bytes)
+  8.940509 seconds (14 allocations: 624 bytes)
+  9.153491 seconds (14 allocations: 624 bytes)
+ 10.281041 seconds (14 allocations: 624 bytes)
+  9.763613 seconds (14 allocations: 624 bytes)
+  9.716513 seconds (14 allocations: 624 bytes)
+  9.539305 seconds (14 allocations: 624 bytes)
+ 10.424889 seconds (14 allocations: 624 bytes)
+ 10.078960 seconds (14 allocations: 624 bytes)
+  9.654381 seconds (14 allocations: 624 bytes)
+  9.093822 seconds (14 allocations: 624 bytes)
+  9.450340 seconds (14 allocations: 624 bytes)
+ 10.252385 seconds (14 allocations: 624 bytes)
+  9.449475 seconds (14 allocations: 624 bytes)
+  9.967627 seconds (14 allocations: 624 bytes)
+  9.878509 seconds (14 allocations: 624 bytes)
+ 10.975885 seconds (14 allocations: 624 bytes)
+ 10.100326 seconds (14 allocations: 624 bytes)
+  9.353093 seconds (14 allocations: 624 bytes)
+  9.442441 seconds (14 allocations: 624 bytes)
+  9.772758 seconds (14 allocations: 624 bytes)
+  9.199549 seconds (14 allocations: 624 bytes)
+ 10.099221 seconds (14 allocations: 624 bytes)
+  9.527543 seconds (14 allocations: 624 bytes)
+  9.749026 seconds (14 allocations: 624 bytes)
+  9.959445 seconds (14 allocations: 624 bytes)
+ 10.232058 seconds (14 allocations: 624 bytes)
+ 10.174532 seconds (14 allocations: 624 bytes)
+  9.485526 seconds (14 allocations: 624 bytes)
+  9.992622 seconds (14 allocations: 624 bytes)
+  9.673650 seconds (14 allocations: 624 bytes)
+  9.716347 seconds (14 allocations: 624 bytes)
+  9.432089 seconds (14 allocations: 624 bytes)
+  9.647009 seconds (14 allocations: 624 bytes)
+ 10.251433 seconds (14 allocations: 624 bytes)
+ 10.606067 seconds (14 allocations: 624 bytes)
+ 11.364069 seconds (14 allocations: 624 bytes)
+ 11.304661 seconds (14 allocations: 624 bytes)
+  9.992386 seconds (14 allocations: 624 bytes)
+ 11.739843 seconds (14 allocations: 624 bytes)
+ 10.952063 seconds (14 allocations: 624 bytes)
+ 11.098306 seconds (14 allocations: 624 bytes)
+ 10.260132 seconds (14 allocations: 624 bytes)
+ 11.192391 seconds (14 allocations: 624 bytes)
+  9.913630 seconds (14 allocations: 624 bytes)
+ 11.468218 seconds (14 allocations: 624 bytes)
+ 12.055455 seconds (14 allocations: 624 bytes)
+ 12.700123 seconds (14 allocations: 624 bytes)
+ 11.950835 seconds (14 allocations: 624 bytes)
+ 11.224873 seconds (14 allocations: 624 bytes)
+ 11.185146 seconds (14 allocations: 624 bytes)
+ 10.171010 seconds (14 allocations: 624 bytes)
+  9.380106 seconds (14 allocations: 624 bytes)
+ 10.283678 seconds (14 allocations: 624 bytes)
+  9.853526 seconds (14 allocations: 624 bytes)
+  9.654481 seconds (14 allocations: 624 bytes)
+  9.634572 seconds (14 allocations: 624 bytes)
+  9.496204 seconds (14 allocations: 624 bytes)
+  9.358440 seconds (14 allocations: 624 bytes)
+  9.743878 seconds (14 allocations: 624 bytes)
+  9.787810 seconds (14 allocations: 624 bytes)
+  9.207000 seconds (14 allocations: 624 bytes)
+  9.233993 seconds (14 allocations: 624 bytes)
+  9.730445 seconds (14 allocations: 624 bytes)
+ 10.949704 seconds (14 allocations: 624 bytes)
+ 10.578761 seconds (14 allocations: 624 bytes)
+ 10.490212 seconds (14 allocations: 624 bytes)
+  9.070581 seconds (14 allocations: 624 bytes)
+  9.166784 seconds (14 allocations: 624 bytes)
+  9.660338 seconds (14 allocations: 624 bytes)
+  8.917514 seconds (14 allocations: 624 bytes)
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@e4farm02.ge.infn.it>
+Subject: Job 771364: <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> in cluster <infnge> Done
+
+Job <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <4*e4farm02.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Mon Mar 30 22:52:06 2026
+Results reported on Mon Mar 30 23:18:24 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5284.51 sec.
+    Max Memory :                                 1118 MB
+    Average Memory :                             1043.60 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              3
+    Max Threads :                                59
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost/job.err> for stderr output of this job.
+
+ 96.799779 seconds (2.77 M allocations: 235.658 MiB, 0.05% gc time, 0.28% compilation time)
+Initial Loss: 535787.3102196797
+ 19.211640 seconds (14.70 M allocations: 744.444 MiB, 0.46% gc time, 39.24% compilation time: <1% of which was recompilation)
+ 10.660270 seconds (14 allocations: 624 bytes)
+ 10.219527 seconds (14 allocations: 624 bytes)
+  9.642437 seconds (14 allocations: 624 bytes)
+  9.942151 seconds (14 allocations: 624 bytes)
+  9.146048 seconds (14 allocations: 624 bytes)
+  9.242965 seconds (14 allocations: 624 bytes)
+  8.993634 seconds (14 allocations: 624 bytes)
+ 11.566095 seconds (14 allocations: 624 bytes)
+ 12.436338 seconds (14 allocations: 624 bytes)
+ 10.164607 seconds (14 allocations: 624 bytes)
+  9.887968 seconds (14 allocations: 624 bytes)
+  9.797846 seconds (14 allocations: 624 bytes)
+  9.123659 seconds (14 allocations: 624 bytes)
+  8.897685 seconds (14 allocations: 624 bytes)
+  8.903729 seconds (14 allocations: 624 bytes)
+  8.970706 seconds (14 allocations: 624 bytes)
+ 10.407211 seconds (14 allocations: 624 bytes)
+  9.551855 seconds (14 allocations: 624 bytes)
+  8.970253 seconds (14 allocations: 624 bytes)
+  9.933330 seconds (14 allocations: 624 bytes)
+ 10.144990 seconds (14 allocations: 624 bytes)
+  9.943303 seconds (14 allocations: 624 bytes)
+ 10.800965 seconds (14 allocations: 624 bytes)
+ 11.833750 seconds (14 allocations: 624 bytes)
+ 11.549969 seconds (14 allocations: 624 bytes)
+ 11.459853 seconds (14 allocations: 624 bytes)
+ 10.665009 seconds (14 allocations: 624 bytes)
+ 12.250437 seconds (14 allocations: 624 bytes)
+ 12.106155 seconds (14 allocations: 624 bytes)
+ 12.627018 seconds (14 allocations: 624 bytes)
+ 12.204377 seconds (14 allocations: 624 bytes)
+ 13.093975 seconds (14 allocations: 624 bytes)
+ 11.078398 seconds (14 allocations: 624 bytes)
+ 12.270491 seconds (14 allocations: 624 bytes)
+ 12.105533 seconds (14 allocations: 624 bytes)
+ 12.370008 seconds (14 allocations: 624 bytes)
+ 10.978157 seconds (14 allocations: 624 bytes)
+ 10.041682 seconds (14 allocations: 624 bytes)
+ 10.561676 seconds (14 allocations: 624 bytes)
+  9.419375 seconds (14 allocations: 624 bytes)
+ 11.341237 seconds (14 allocations: 624 bytes)
+ 11.223384 seconds (14 allocations: 624 bytes)
+  9.964583 seconds (14 allocations: 624 bytes)
+ 10.911116 seconds (14 allocations: 624 bytes)
+ 11.022946 seconds (14 allocations: 624 bytes)
+ 10.264456 seconds (14 allocations: 624 bytes)
+  9.735786 seconds (14 allocations: 624 bytes)
+ 11.935344 seconds (14 allocations: 624 bytes)
+ 10.250532 seconds (14 allocations: 624 bytes)
+ 12.382128 seconds (14 allocations: 624 bytes)
+ 12.067247 seconds (14 allocations: 624 bytes)
+ 10.794746 seconds (14 allocations: 624 bytes)
+ 12.133711 seconds (14 allocations: 624 bytes)
+ 12.491276 seconds (14 allocations: 624 bytes)
+  9.912777 seconds (14 allocations: 624 bytes)
+ 11.163126 seconds (14 allocations: 624 bytes)
+ 11.979743 seconds (14 allocations: 624 bytes)
+ 12.405201 seconds (14 allocations: 624 bytes)
+ 12.090535 seconds (14 allocations: 624 bytes)
+ 12.156888 seconds (14 allocations: 624 bytes)
+ 11.888867 seconds (14 allocations: 624 bytes)
+ 10.716561 seconds (14 allocations: 624 bytes)
+ 12.398056 seconds (14 allocations: 624 bytes)
+ 11.207266 seconds (14 allocations: 624 bytes)
+ 11.780562 seconds (14 allocations: 624 bytes)
+ 12.412564 seconds (14 allocations: 624 bytes)
+ 11.593423 seconds (14 allocations: 624 bytes)
+ 10.565197 seconds (14 allocations: 624 bytes)
+ 11.577982 seconds (14 allocations: 624 bytes)
+ 11.294646 seconds (14 allocations: 624 bytes)
+ 11.088427 seconds (14 allocations: 624 bytes)
+ 11.331799 seconds (14 allocations: 624 bytes)
+ 11.709881 seconds (14 allocations: 624 bytes)
+  9.900063 seconds (14 allocations: 624 bytes)
+  9.679031 seconds (14 allocations: 624 bytes)
+ 11.747139 seconds (14 allocations: 624 bytes)
+ 12.136383 seconds (14 allocations: 624 bytes)
+ 11.738029 seconds (14 allocations: 624 bytes)
+ 10.355862 seconds (14 allocations: 624 bytes)
+ 10.569811 seconds (14 allocations: 624 bytes)
+ 11.994375 seconds (14 allocations: 624 bytes)
+ 12.347185 seconds (14 allocations: 624 bytes)
+ 12.498092 seconds (14 allocations: 624 bytes)
+ 11.362522 seconds (14 allocations: 624 bytes)
+ 12.102564 seconds (14 allocations: 624 bytes)
+ 12.025341 seconds (14 allocations: 624 bytes)
+ 12.787801 seconds (14 allocations: 624 bytes)
+ 12.385059 seconds (14 allocations: 624 bytes)
+ 13.223544 seconds (14 allocations: 624 bytes)
+ 12.724816 seconds (14 allocations: 624 bytes)
+ 12.654598 seconds (14 allocations: 624 bytes)
+ 12.479642 seconds (14 allocations: 624 bytes)
+ 12.465076 seconds (14 allocations: 624 bytes)
+ 12.104504 seconds (14 allocations: 624 bytes)
+ 12.150350 seconds (14 allocations: 624 bytes)
+ 11.641867 seconds (14 allocations: 624 bytes)
+ 10.008764 seconds (14 allocations: 624 bytes)
+ 11.763977 seconds (14 allocations: 624 bytes)
+ 10.361026 seconds (14 allocations: 624 bytes)
+  9.599764 seconds (14 allocations: 624 bytes)
+  9.892921 seconds (14 allocations: 624 bytes)
+ 11.088644 seconds (14 allocations: 624 bytes)
+ 12.355189 seconds (14 allocations: 624 bytes)
+ 12.109493 seconds (14 allocations: 624 bytes)
+ 12.382148 seconds (14 allocations: 624 bytes)
+ 11.003437 seconds (14 allocations: 624 bytes)
+  9.129022 seconds (14 allocations: 624 bytes)
+ 11.352882 seconds (14 allocations: 624 bytes)
+ 12.233091 seconds (14 allocations: 624 bytes)
+ 10.448389 seconds (14 allocations: 624 bytes)
+  8.591852 seconds (14 allocations: 624 bytes)
+  8.631738 seconds (14 allocations: 624 bytes)
+  9.289041 seconds (14 allocations: 624 bytes)
+  8.706256 seconds (14 allocations: 624 bytes)
+  8.654369 seconds (14 allocations: 624 bytes)
+  8.395353 seconds (14 allocations: 624 bytes)
+  8.085380 seconds (14 allocations: 624 bytes)
+ 11.107443 seconds (14 allocations: 624 bytes)
+ 11.881822 seconds (14 allocations: 624 bytes)
+ 12.814745 seconds (14 allocations: 624 bytes)
+ 12.599137 seconds (14 allocations: 624 bytes)
+ 12.700641 seconds (14 allocations: 624 bytes)
+ 12.683582 seconds (14 allocations: 624 bytes)
+ 12.765057 seconds (14 allocations: 624 bytes)
+ 12.685318 seconds (14 allocations: 624 bytes)
+ 12.884154 seconds (14 allocations: 624 bytes)
+ 12.127639 seconds (14 allocations: 624 bytes)
+ 11.690531 seconds (14 allocations: 624 bytes)
+ 11.703096 seconds (14 allocations: 624 bytes)
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@e4farm04.ge.infn.it>
+Subject: Job 771367: <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> in cluster <infnge> Done
+
+Job <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <4*e4farm04.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Mon Mar 30 23:33:24 2026
+Results reported on Tue Mar 31 00:00:47 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5850.66 sec.
+    Max Memory :                                 1061 MB
+    Average Memory :                             996.22 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              3
+    Max Threads :                                59
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost/job.err> for stderr output of this job.
+
+ 98.040005 seconds (2.77 M allocations: 235.659 MiB, 0.07% gc time, 0.30% compilation time)
+Initial Loss: 537174.4969861626
+ 18.300272 seconds (14.70 M allocations: 744.444 MiB, 1.17% gc time, 43.48% compilation time: <1% of which was recompilation)
+ 11.228673 seconds (14 allocations: 624 bytes)
+  8.885263 seconds (14 allocations: 624 bytes)
+ 10.211872 seconds (14 allocations: 624 bytes)
+ 11.510560 seconds (14 allocations: 624 bytes)
+  9.121357 seconds (14 allocations: 624 bytes)
+  9.599963 seconds (14 allocations: 624 bytes)
+ 12.686929 seconds (14 allocations: 624 bytes)
+ 11.859178 seconds (14 allocations: 624 bytes)
+ 10.072205 seconds (14 allocations: 624 bytes)
+  9.243296 seconds (14 allocations: 624 bytes)
+  8.508072 seconds (14 allocations: 624 bytes)
+  9.044110 seconds (14 allocations: 624 bytes)
+  8.945898 seconds (14 allocations: 624 bytes)
+ 11.931232 seconds (14 allocations: 624 bytes)
+  9.672379 seconds (14 allocations: 624 bytes)
+  9.130802 seconds (14 allocations: 624 bytes)
+  8.973601 seconds (14 allocations: 624 bytes)
+  8.846895 seconds (14 allocations: 624 bytes)
+  8.808777 seconds (14 allocations: 624 bytes)
+  8.796570 seconds (14 allocations: 624 bytes)
+  8.783872 seconds (14 allocations: 624 bytes)
+  8.775432 seconds (14 allocations: 624 bytes)
+  8.899646 seconds (14 allocations: 624 bytes)
+  8.852964 seconds (14 allocations: 624 bytes)
+  8.853184 seconds (14 allocations: 624 bytes)
+  8.922058 seconds (14 allocations: 624 bytes)
+  8.834848 seconds (14 allocations: 624 bytes)
+  8.865994 seconds (14 allocations: 624 bytes)
+  8.893707 seconds (14 allocations: 624 bytes)
+  8.869877 seconds (14 allocations: 624 bytes)
+  8.866934 seconds (14 allocations: 624 bytes)
+  8.875863 seconds (14 allocations: 624 bytes)
+  8.876621 seconds (14 allocations: 624 bytes)
+  8.868949 seconds (14 allocations: 624 bytes)
+  8.937640 seconds (14 allocations: 624 bytes)
+  9.031879 seconds (14 allocations: 624 bytes)
+  8.893110 seconds (14 allocations: 624 bytes)
+  8.795720 seconds (14 allocations: 624 bytes)
+  8.765347 seconds (14 allocations: 624 bytes)
+  8.798047 seconds (14 allocations: 624 bytes)
+  8.807697 seconds (14 allocations: 624 bytes)
+  8.781246 seconds (14 allocations: 624 bytes)
+  8.767682 seconds (14 allocations: 624 bytes)
+  8.807880 seconds (14 allocations: 624 bytes)
+  8.810748 seconds (14 allocations: 624 bytes)
+  8.743258 seconds (14 allocations: 624 bytes)
+  8.738492 seconds (14 allocations: 624 bytes)
+  8.882065 seconds (14 allocations: 624 bytes)
+  8.948208 seconds (14 allocations: 624 bytes)
+  8.972605 seconds (14 allocations: 624 bytes)
+  8.944439 seconds (14 allocations: 624 bytes)
+  8.926517 seconds (14 allocations: 624 bytes)
+  8.958237 seconds (14 allocations: 624 bytes)
+  8.949521 seconds (14 allocations: 624 bytes)
+  8.898693 seconds (14 allocations: 624 bytes)
+  8.937423 seconds (14 allocations: 624 bytes)
+  8.903184 seconds (14 allocations: 624 bytes)
+  8.923283 seconds (14 allocations: 624 bytes)
+  8.903753 seconds (14 allocations: 624 bytes)
+  8.915436 seconds (14 allocations: 624 bytes)
+  8.914008 seconds (14 allocations: 624 bytes)
+  8.872305 seconds (14 allocations: 624 bytes)
+  8.906840 seconds (14 allocations: 624 bytes)
+  8.904245 seconds (14 allocations: 624 bytes)
+  8.906757 seconds (14 allocations: 624 bytes)
+  8.952902 seconds (14 allocations: 624 bytes)
+  8.770102 seconds (14 allocations: 624 bytes)
+  8.778172 seconds (14 allocations: 624 bytes)
+  8.767717 seconds (14 allocations: 624 bytes)
+  8.768440 seconds (14 allocations: 624 bytes)
+  8.768734 seconds (14 allocations: 624 bytes)
+  8.762420 seconds (14 allocations: 624 bytes)
+  8.776080 seconds (14 allocations: 624 bytes)
+  8.768629 seconds (14 allocations: 624 bytes)
+  8.789637 seconds (14 allocations: 624 bytes)
+  8.790029 seconds (14 allocations: 624 bytes)
+  8.763203 seconds (14 allocations: 624 bytes)
+  8.764918 seconds (14 allocations: 624 bytes)
+  8.822713 seconds (14 allocations: 624 bytes)
+  8.810328 seconds (14 allocations: 624 bytes)
+  8.777964 seconds (14 allocations: 624 bytes)
+  9.025544 seconds (14 allocations: 624 bytes)
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@e4farm02.ge.infn.it>
+Subject: Job 771371: <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> in cluster <infnge> Exited
+
+Job <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <4*e4farm02.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Tue Mar 31 01:44:35 2026
+Results reported on Tue Mar 31 02:00:37 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time :                                   3114.40 sec.
+    Max Memory :                                 1037 MB
+    Average Memory :                             941.12 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              3
+    Max Threads :                                59
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost/job.err> for stderr output of this job.
+
+ 95.142242 seconds (2.77 M allocations: 235.657 MiB, 0.04% gc time, 0.28% compilation time)
+Initial Loss: 545390.6894667157
+ 20.374193 seconds (14.70 M allocations: 700.414 MiB, 0.28% gc time, 36.72% compilation time: <1% of which was recompilation)
+ 12.924923 seconds (14 allocations: 624 bytes)
+ 13.313357 seconds (14 allocations: 624 bytes)
+ 13.463074 seconds (14 allocations: 624 bytes)
+ 12.725339 seconds (14 allocations: 624 bytes)
+ 12.938622 seconds (14 allocations: 624 bytes)
+ 12.938429 seconds (14 allocations: 624 bytes)
+ 13.052652 seconds (14 allocations: 624 bytes)
+ 15.517388 seconds (14 allocations: 624 bytes)
+ 14.809125 seconds (14 allocations: 624 bytes)
+ 14.466492 seconds (14 allocations: 624 bytes)
+ 14.977321 seconds (14 allocations: 624 bytes)
+ 16.099478 seconds (14 allocations: 624 bytes)
+ 18.318625 seconds (14 allocations: 624 bytes)
+ 13.771032 seconds (14 allocations: 624 bytes)
+ 13.925517 seconds (14 allocations: 624 bytes)
+ 15.171523 seconds (14 allocations: 624 bytes)
+ 12.883322 seconds (14 allocations: 624 bytes)
+ 16.491683 seconds (14 allocations: 624 bytes)
+ 15.914766 seconds (14 allocations: 624 bytes)
+ 18.342330 seconds (14 allocations: 624 bytes)
+ 13.493323 seconds (14 allocations: 624 bytes)
+ 15.914509 seconds (14 allocations: 624 bytes)
+ 20.123419 seconds (14 allocations: 624 bytes)
+ 14.452441 seconds (14 allocations: 624 bytes)
+ 12.865966 seconds (14 allocations: 624 bytes)
+ 13.007831 seconds (14 allocations: 624 bytes)
+ 16.190880 seconds (14 allocations: 624 bytes)
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@e4farm03.ge.infn.it>
+Subject: Job 771374: <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> in cluster <infnge> Exited
+
+Job <julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <4*e4farm03.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Tue Mar 31 02:00:40 2026
+Results reported on Tue Mar 31 02:10:53 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 4 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_250000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time :                                   1719.95 sec.
+    Max Memory :                                 1017 MB
+    Average Memory :                             873.19 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              3
+    Max Threads :                                59
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_250000/Boost/job.err> for stderr output of this job.
+
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@jlab03.ge.infn.it>
+Subject: Job 771915: <julia -t 16 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost> in cluster <infnge> Exited
+
+Job <julia -t 16 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <16*jlab03.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Wed Apr  1 20:07:57 2026
+Results reported on Wed Apr  1 20:07:59 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 16 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 130.
+
+Resource usage summary:
+
+    CPU time :                                   2.44 sec.
+    Max Memory :                                 144 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              3
+    Max Threads :                                51
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost/job.err> for stderr output of this job.
+
+227.991423 seconds (5.24 M allocations: 340.743 MiB, 0.13% gc time, 0.27% compilation time)
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@jlab04.ge.infn.it>
+Subject: Job 771918: <julia -t 8 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost> in cluster <infnge> Exited
+
+Job <julia -t 8 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <8*jlab04.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Wed Apr  1 20:08:20 2026
+Results reported on Wed Apr  1 20:13:49 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 8 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   72.73 sec.
+    Max Memory :                                 705 MB
+    Average Memory :                             516.18 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              3
+    Max Threads :                                35
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost/job.err> for stderr output of this job.
+
+341.643846 seconds (5.24 M allocations: 340.744 MiB, 0.04% gc time, 0.16% compilation time)
+Initial Loss: 620955.5814158476
+ 46.959700 seconds (14.52 M allocations: 692.158 MiB, 0.69% gc time, 27.58% compilation time: <1% of which was recompilation)
+ 34.716565 seconds (14 allocations: 624 bytes)
+ 33.774528 seconds (14 allocations: 624 bytes)
+ 35.132124 seconds (14 allocations: 624 bytes)
+ 34.183589 seconds (14 allocations: 624 bytes)
+ 34.592338 seconds (14 allocations: 624 bytes)
+ 35.281175 seconds (14 allocations: 624 bytes)
+ 35.430058 seconds (14 allocations: 624 bytes)
+ 40.809610 seconds (14 allocations: 624 bytes)
+ 34.604066 seconds (14 allocations: 624 bytes)
+ 35.865712 seconds (14 allocations: 624 bytes)
+ 34.111263 seconds (14 allocations: 624 bytes)
+ 33.349494 seconds (14 allocations: 624 bytes)
+ 35.375398 seconds (14 allocations: 624 bytes)
+ 34.762479 seconds (14 allocations: 624 bytes)
+ 35.760633 seconds (14 allocations: 624 bytes)
+ 34.105339 seconds (14 allocations: 624 bytes)
+ 34.120566 seconds (14 allocations: 624 bytes)
+ 34.425153 seconds (14 allocations: 624 bytes)
+ 34.853931 seconds (14 allocations: 624 bytes)
+ 34.925611 seconds (14 allocations: 624 bytes)
+ 35.303288 seconds (14 allocations: 624 bytes)
+ 32.290227 seconds (14 allocations: 624 bytes)
+ 34.572017 seconds (14 allocations: 624 bytes)
+ 35.114502 seconds (14 allocations: 624 bytes)
+ 32.472597 seconds (14 allocations: 624 bytes)
+ 37.170518 seconds (14 allocations: 624 bytes)
+ 35.252544 seconds (14 allocations: 624 bytes)
+ 34.003668 seconds (14 allocations: 624 bytes)
+ 34.562003 seconds (14 allocations: 624 bytes)
+ 34.315199 seconds (14 allocations: 624 bytes)
+ 33.931297 seconds (14 allocations: 624 bytes)
+ 32.710946 seconds (14 allocations: 624 bytes)
+ 32.641805 seconds (14 allocations: 624 bytes)
+ 31.454888 seconds (14 allocations: 624 bytes)
+ 26.142641 seconds (14 allocations: 624 bytes)
+ 25.218801 seconds (14 allocations: 624 bytes)
+ 28.468599 seconds (14 allocations: 624 bytes)
+ 24.041380 seconds (14 allocations: 624 bytes)
+ 26.342193 seconds (14 allocations: 624 bytes)
+ 24.852594 seconds (14 allocations: 624 bytes)
+ 22.703170 seconds (14 allocations: 624 bytes)
+ 20.530903 seconds (14 allocations: 624 bytes)
+ 24.987225 seconds (14 allocations: 624 bytes)
+ 21.621274 seconds (14 allocations: 624 bytes)
+ 21.360131 seconds (14 allocations: 624 bytes)
+ 21.832699 seconds (14 allocations: 624 bytes)
+ 27.856939 seconds (14 allocations: 624 bytes)
+ 23.023367 seconds (14 allocations: 624 bytes)
+ 20.494271 seconds (14 allocations: 624 bytes)
+ 20.409350 seconds (14 allocations: 624 bytes)
+ 20.587469 seconds (14 allocations: 624 bytes)
+ 20.630173 seconds (14 allocations: 624 bytes)
+ 20.456964 seconds (14 allocations: 624 bytes)
+ 20.427045 seconds (14 allocations: 624 bytes)
+ 20.557143 seconds (14 allocations: 624 bytes)
+ 20.696065 seconds (14 allocations: 624 bytes)
+ 21.077447 seconds (14 allocations: 624 bytes)
+ 21.258058 seconds (14 allocations: 624 bytes)
+ 20.643816 seconds (14 allocations: 624 bytes)
+ 25.207460 seconds (14 allocations: 624 bytes)
+ 23.059569 seconds (14 allocations: 624 bytes)
+ 20.952822 seconds (14 allocations: 624 bytes)
+ 20.650393 seconds (14 allocations: 624 bytes)
+ 20.569020 seconds (14 allocations: 624 bytes)
+ 20.613069 seconds (14 allocations: 624 bytes)
+ 20.935100 seconds (14 allocations: 624 bytes)
+ 20.620591 seconds (14 allocations: 624 bytes)
+ 20.607450 seconds (14 allocations: 624 bytes)
+ 21.425112 seconds (14 allocations: 624 bytes)
+ 20.575526 seconds (14 allocations: 624 bytes)
+ 21.979734 seconds (14 allocations: 624 bytes)
+ 20.559028 seconds (14 allocations: 624 bytes)
+ 21.376126 seconds (14 allocations: 624 bytes)
+ 26.539694 seconds (14 allocations: 624 bytes)
+ 23.588893 seconds (14 allocations: 624 bytes)
+ 20.627392 seconds (14 allocations: 624 bytes)
+ 20.576271 seconds (14 allocations: 624 bytes)
+ 23.720146 seconds (14 allocations: 624 bytes)
+ 20.981906 seconds (14 allocations: 624 bytes)
+ 21.235647 seconds (14 allocations: 624 bytes)
+ 20.576362 seconds (14 allocations: 624 bytes)
+ 26.086287 seconds (14 allocations: 624 bytes)
+ 21.136597 seconds (14 allocations: 624 bytes)
+ 20.694580 seconds (14 allocations: 624 bytes)
+ 20.511186 seconds (14 allocations: 624 bytes)
+ 20.956430 seconds (14 allocations: 624 bytes)
+ 24.644823 seconds (14 allocations: 624 bytes)
+ 23.172933 seconds (14 allocations: 624 bytes)
+ 20.695790 seconds (14 allocations: 624 bytes)
+ 20.488780 seconds (14 allocations: 624 bytes)
+ 20.543615 seconds (14 allocations: 624 bytes)
+ 20.504308 seconds (14 allocations: 624 bytes)
+ 20.495619 seconds (14 allocations: 624 bytes)
+ 20.510044 seconds (14 allocations: 624 bytes)
+ 21.870742 seconds (14 allocations: 624 bytes)
+ 20.541740 seconds (14 allocations: 624 bytes)
+ 21.410715 seconds (14 allocations: 624 bytes)
+ 20.525711 seconds (14 allocations: 624 bytes)
+ 20.827409 seconds (14 allocations: 624 bytes)
+ 20.673589 seconds (14 allocations: 624 bytes)
+ 20.688698 seconds (14 allocations: 624 bytes)
+ 24.853959 seconds (14 allocations: 624 bytes)
+ 21.180801 seconds (14 allocations: 624 bytes)
+ 20.942382 seconds (14 allocations: 624 bytes)
+ 20.518389 seconds (14 allocations: 624 bytes)
+ 22.286941 seconds (14 allocations: 624 bytes)
+ 20.706650 seconds (14 allocations: 624 bytes)
+ 22.911268 seconds (14 allocations: 624 bytes)
+ 20.484804 seconds (14 allocations: 624 bytes)
+ 20.506641 seconds (14 allocations: 624 bytes)
+ 20.939613 seconds (14 allocations: 624 bytes)
+ 22.194501 seconds (14 allocations: 624 bytes)
+ 21.450732 seconds (14 allocations: 624 bytes)
+ 21.310637 seconds (14 allocations: 624 bytes)
+ 26.796160 seconds (14 allocations: 624 bytes)
+ 22.714808 seconds (14 allocations: 624 bytes)
+ 21.217361 seconds (14 allocations: 624 bytes)
+ 23.931671 seconds (14 allocations: 624 bytes)
+ 28.272120 seconds (14 allocations: 624 bytes)
+ 24.940762 seconds (14 allocations: 624 bytes)
+ 22.921500 seconds (14 allocations: 624 bytes)
+ 20.602611 seconds (14 allocations: 624 bytes)
+ 20.529396 seconds (14 allocations: 624 bytes)
+ 20.443941 seconds (14 allocations: 624 bytes)
+ 20.476708 seconds (14 allocations: 624 bytes)
+ 20.632468 seconds (14 allocations: 624 bytes)
+ 21.869925 seconds (14 allocations: 624 bytes)
+ 23.007639 seconds (14 allocations: 624 bytes)
+ 24.864225 seconds (14 allocations: 624 bytes)
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@jlab04.ge.infn.it>
+Subject: Job 771919: <julia -t 8 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost> in cluster <infnge> Done
+
+Job <julia -t 8 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost> was submitted from host <farmuisl7.ge.infn.it> by user <mbonici> in cluster <infnge>.
+Job was executed on host(s) <8*jlab04.ge.infn.it>, in queue <long>, as user <mbonici> in cluster <infnge>.
+</home/mbonici> was used as the home directory.
+</home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm> was used as the working directory.
+Started at Wed Apr  1 20:17:47 2026
+Results reported on Wed Apr  1 21:21:08 2026
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+julia -t 8 --project=/home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm /home/mbonici/emulator-zoo/Mapse.jl/class_mnuw0wacdm/trainer_sym_ratio.jl -p Boost -i /farmdisk1/mbonici/mapse_class_mnuw0wacdm_25000 -o /farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   26569.16 sec.
+    Max Memory :                                 840 MB
+    Average Memory :                             780.67 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              3
+    Max Threads :                                35
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file </farmdisk1/mbonici/trained_mapse_class_mnuw0wacdm_sym_ratio_25000/Boost/job.err> for stderr output of this job.
+

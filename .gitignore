@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+chains/
+
+# DESI-restricted data packages (>100 MB); see README
+data/*.h5

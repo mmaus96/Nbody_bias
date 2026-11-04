@@ -1,0 +1,89 @@
+# MCMC of LCDM + LRG1 biases on the Abacus DR2 cutsky LRG1 P(k) (mean of 25 mocks; truth: AbacusSummit c000).
+# Run from the repo root:   PYTHONPATH=. cobaya-run configs/fit_LRG1_abacus_cutsky.yaml
+# (on Perlmutter also export MPICH_GPU_SUPPORT_ENABLED=0). Redshifts are read from the package (auxiliary/<sample>/zeff).
+theory:
+  nbody_bias.fs_likelihood.pk_theory_zs:
+    fs_sample_names: [LRG1]
+    PT_model: LPT
+    basedir: ./data/
+    datfn: mock_abacus_cutsky_altmtl_phase_mean_qso_with_redshift_errors.h5
+    stop_at_error: true
+likelihood:
+  DESI_RSD_LRG1:
+    class: nbody_bias.fs_likelihood.JointLikelihood
+    basedir: ./data/
+    datfn: mock_abacus_cutsky_altmtl_phase_mean_qso_with_redshift_errors.h5
+    fs_sample_names: [LRG1]
+    linear_param_dict_fn: ./configs/params_linear_LRG1.yaml
+    auw_prior: [0.0, 0.3]
+    fs_kmins: [0.02]
+    fs_qmins: [0.02]
+    fs_mmaxs: [0.2]
+    fs_qmaxs: [0.2]
+    fs_hmaxs: [0.0]
+    delta_k: 0.005
+    hexa: false
+    include_priors: true
+    optimize: false     # true for minimizers (profile over the linear parameters)
+    jeff: false
+    cov_fac: [1.0]
+    invcov_fac: [1.0]
+    bsig8: 1.0
+    ct_reparam: true
+    AP_scale: true
+    stop_at_error: true
+params:
+  w0: {value: -1.0, latex: w_0}
+  wa: {value: 0.0, latex: w_a}
+  ns:
+    prior: {dist: norm, loc: 0.9649, scale: 0.0042}
+    ref: {dist: norm, loc: 0.965, scale: 0.001}
+    latex: n_s
+  H0:
+    prior: {min: 55.0, max: 79.0}
+    ref: {dist: norm, loc: 67.36, scale: 1.0}
+    latex: H_0
+  omega_b:
+    prior: {dist: norm, loc: 0.02237, scale: 0.00055}
+    ref: {dist: norm, loc: 0.02237, scale: 0.001}
+    latex: \Omega_\mathrm{b}h^2
+  omega_cdm:
+    prior: {min: 0.08, max: 0.16}
+    ref: {dist: norm, loc: 0.12, scale: 0.005}
+    latex: \Omega_\mathrm{cdm}h^2
+  logA:
+    prior: {min: 2.03, max: 3.5}
+    ref: {dist: norm, loc: 3.036394, scale: 0.05}
+    latex: \log(10^{10} A_\mathrm{s})
+  m_ncdm: {value: 0.06, latex: 'M_{\nu}'}
+  sigma8: {latex: \sigma_8}
+  omegam: {latex: '\Omega_\mathrm{m}'}
+  bsig8_LRG1:
+    prior: {min: 0.1, max: 3.0}
+    ref: {dist: norm, loc: 1.8, scale: 0.05}
+    latex: (1+b_1^{LRG1})\sigma_8
+  b2sig8_LRG1:
+    prior: {dist: norm, loc: 0.0, scale: 10}
+    ref: {dist: norm, loc: 0.4, scale: 0.5}
+    latex: b_2\sigma_8^{LRG1}
+  bssig8_LRG1:
+    prior: {dist: norm, loc: 0.0, scale: 10}
+    ref: {dist: norm, loc: 1.0, scale: 0.5}
+    latex: b_s\sigma_8^{LRG1}
+  b3sig8_LRG1: {value: 0.0, latex: 'b_3\sigma_8^{LRG1}'}
+  a2_LRG1: {value: 0.0, latex: 'a_2^{LRG1}'}
+  a4_LRG1: {value: 0.0, latex: 'a_4^{LRG1}'}
+sampler:
+  mcmc:
+    covmat: auto
+    learn_proposal: true
+    Rminus1_stop: 0.01
+    oversample_power: 0.4
+    proposal_scale: 1.5
+    drag: false
+    blocking:
+    - - 1
+      - [ns, H0, omega_b, omega_cdm, logA]
+    - - 3
+      - [bsig8_LRG1, b2sig8_LRG1, bssig8_LRG1]
+output: chains/LRG1_abacus_cutsky/chain
